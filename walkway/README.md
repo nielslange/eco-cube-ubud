@@ -1,8 +1,8 @@
 # Walkway
 
-As a host
-I want to have light at the walkway
-So that my guest don't need a flashlight to walk to the house.
+As a guest  
+I want to the walkway to be illuminated  
+So that I don't need a flashlight when approaching the house in the dark.
 
 ## Potential lamps
 
