@@ -4,7 +4,7 @@
 
 ## Target group
 
-Digital nomads, between 25 and 45, with an annual income above 50k USD that want to explore Asia while not giving up the comforts they're used from home.
+Digital nomads, between 25 and 45, with an annual income above USD 50k that want to explore Asia while not giving up the comforts they're used from home.
 
 ## Intention
 
