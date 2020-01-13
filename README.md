@@ -18,7 +18,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 ## Sections
 
 - [Walkway](https://github.com/nielslange/homestay-ubud/tree/master/walkway)
-- Entrance
+- [Entrance](https://github.com/nielslange/homestay-ubud/blob/master/entrance)
 - Bedroom
 - Bathroom
 - Living room
