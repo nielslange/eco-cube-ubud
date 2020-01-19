@@ -22,7 +22,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 - [Bedroom](https://github.com/nielslange/homestay-ubud/tree/master/bedroom)
 - [Bathroom](https://github.com/nielslange/homestay-ubud/tree/master/bathroom)
 - [Living room](https://github.com/nielslange/homestay-ubud/tree/master/living-room)
-- Kitchen
+- [Kitchen](https://github.com/nielslange/homestay-ubud/tree/master/kitchen)
 - Office
 - Garden
 - Pool
