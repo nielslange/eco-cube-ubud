@@ -1,6 +1,6 @@
 # Homestay Ubud
 
-**tl;dr:** This project describes the building of our bungalow in Ubud in user stories. 
+**tl;dr:** This project describes the building of our homestay in Ubud in user stories. 
 
 ## Target group
 
