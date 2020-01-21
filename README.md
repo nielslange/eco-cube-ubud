@@ -12,8 +12,8 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 ## Roles
 
-- Guest: The one that stays in the bungalow
-- Host: The one that owns the bungalow
+- Guest: The person that stays in the house
+- Host: The person that owns the house
 
 ## Sections
 
