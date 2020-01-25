@@ -17,12 +17,12 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 ## Sections
 
-- [Walkway](https://github.com/nielslange/homestay-ubud/tree/master/walkway)
-- [Entrance](https://github.com/nielslange/homestay-ubud/blob/master/entrance)
-- [Bedroom](https://github.com/nielslange/homestay-ubud/tree/master/bedroom)
-- [Bathroom](https://github.com/nielslange/homestay-ubud/tree/master/bathroom)
-- [Living room](https://github.com/nielslange/homestay-ubud/tree/master/living-room)
-- [Kitchen](https://github.com/nielslange/homestay-ubud/tree/master/kitchen)
-- [Office](https://github.com/nielslange/homestay-ubud/tree/master/office)
-- [Garden](https://github.com/nielslange/homestay-ubud/tree/master/garden)
-- [Pool](https://github.com/nielslange/homestay-ubud/tree/master/pool)
+- [1. Walkway](https://github.com/nielslange/homestay-ubud/tree/master/walkway)
+- [2. Entrance](https://github.com/nielslange/homestay-ubud/blob/master/entrance)
+- [3. Bedroom](https://github.com/nielslange/homestay-ubud/tree/master/bedroom)
+- [4. Bathroom](https://github.com/nielslange/homestay-ubud/tree/master/bathroom)
+- [5. Living room](https://github.com/nielslange/homestay-ubud/tree/master/living-room)
+- [6. Kitchen](https://github.com/nielslange/homestay-ubud/tree/master/kitchen)
+- [7. Office](https://github.com/nielslange/homestay-ubud/tree/master/office)
+- [8. Garden](https://github.com/nielslange/homestay-ubud/tree/master/garden)
+- [9. Pool](https://github.com/nielslange/homestay-ubud/tree/master/pool)
