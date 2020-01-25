@@ -1,6 +1,6 @@
 # Walkway
 
-- As a guest, I want to the walkway to be illuminated so that I don't need a flashlight when approaching the house in the dark.
+- As a guest, I want to the walkway to be illuminated so that I don't need a flashlight when walking to the house in the dark.
 
 ## Potential lamps
 
