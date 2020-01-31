@@ -31,7 +31,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 - As a guest, I want to the walkway to be illuminated so that I don't need a flashlight when walking to the house in the dark.
 
-### Potential lamps
+**Potential lamps**
 
 <table>
 <tr>
@@ -61,3 +61,8 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 </td>
 </tr>
 </table>
+
+## Entrance
+
+- As a guest, I want to change wet against dry cloth at the entrance so that the house remains dry and clean.  
+- As a guest, I want to see a panel with all light switches in the entrance area so that I can controll all lights when entering/leaving the house.
