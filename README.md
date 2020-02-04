@@ -69,4 +69,4 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 ## Bedroom
 
-- As a `{ ROLE }`, I want to `{ ACTION }` so that `{ BENEFIT }`.
+- As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
