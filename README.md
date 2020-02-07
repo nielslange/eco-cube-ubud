@@ -75,3 +75,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 - As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
 
+## Living room
+
+- As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
+
