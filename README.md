@@ -82,3 +82,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 ## Kitchen
 
 - As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
+
+## Office
+
+- As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
