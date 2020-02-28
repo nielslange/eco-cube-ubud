@@ -45,7 +45,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 ## Bedroom
 
-- As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
+- As a guest, I want to have all light switches next to the bed, so that I can controll all lights from there.
 
 ## Bathroom
 
