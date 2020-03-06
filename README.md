@@ -63,7 +63,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 ## Office
 
-- As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
+- As a guest, I want to use an adjustable desk so that I can work standing and sitting.
 
 ## Garden
 
