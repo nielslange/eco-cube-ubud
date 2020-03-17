@@ -59,7 +59,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 ## Kitchen
 
-- As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
+- As a guest, I want to be able to use a fully equiped kitchen so that I can cook my own food.
 
 ## Office
 
