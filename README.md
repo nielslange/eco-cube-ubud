@@ -55,7 +55,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 ## Living room
 
-- As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
+- As a guest, I want to be able to use a projector in the living room to have a cinema feeling when watching movies.
 
 ## Kitchen
 
