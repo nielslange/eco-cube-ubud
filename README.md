@@ -60,6 +60,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 ## Kitchen
 
 - As a guest, I want to be able to use a fully equiped kitchen so that I can cook my own food.
+- As a guest, I want to be able tio use a dish washer so that I don't have to wash the dishes by hand.
 
 ## Office
 
