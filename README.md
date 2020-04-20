@@ -51,7 +51,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 ## Bathroom
 
 - As a guest, I want to be able to have a hot shower.
-- As a guest, I want to be able to use a rainfall showser.
+- As a guest, I want to be able to use a rainfall shower.
 - As a guest, I want the lights to turn on automatically when I enter the bathroom.
 
 ## Living room
