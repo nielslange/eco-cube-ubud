@@ -72,7 +72,7 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 
 ## Garden
 
-- As a **ROLE**, I want to **ACTION** so that **BENEFIT**.
+- As a guest, I want to be able to sit on the balcony/veranda to enjoy the beautiful landscape. 
 
 ## Pool
 
