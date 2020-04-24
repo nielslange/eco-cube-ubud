@@ -77,4 +77,5 @@ Create a bungalow that is sustainable, comfortable and luxury as much as possibl
 ## Pool
 
 - As a guest, I want to be able to use a lap pool (min. 15m long) so that I can exercise. 
+- As a guest, I want to be able to use a hot tub so that I can relax afetr excercising.
 
